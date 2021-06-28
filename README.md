@@ -9,5 +9,5 @@ Created a simplified command shell through my college’s primary Linux login se
   - kill
   - sleep
   - ls
-  - Runs programs
+  - Runs programs and handles background and foreground jobs
   - and other system commands!
